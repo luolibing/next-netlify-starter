@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="AnkerCloud go go go!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Netlify demo
         </p>
       </main>
 
