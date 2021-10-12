@@ -11,10 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="AnkerCloud go go go!" />
-        <p className="description">
-          Netlify demo
-        </p>
+        <Header title="AnkerCloud go go go! Netlify demo By Kroos.luo" />
       </main>
 
       <Footer />
